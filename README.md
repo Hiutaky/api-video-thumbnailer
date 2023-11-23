@@ -14,3 +14,11 @@ Since this script provide only one GET endpoint, it's pretty easy to use it, let
 
  You just need to change the value of video_source and seconds. As response you'll receive a jpeg image of the video at that specific seconds. That's it.
 
+
+# How to run it
+
+Once you're in the project directory, run
+
+    python3 start.py
+
+A webserver will be launched on the port 5000.
